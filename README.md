@@ -1,5 +1,6 @@
 # HPDP
-Hyperspectral Pansharpening With Deep Priors, Version 1.0
+Hyperspectral Pansharpening With Deep Priors Version 1.0 on the website: 
+# https://web.xidian.edu.cn/wyxie/
 Copyright(c) 2020
 All Rights Reserved.
 This is an implementation of the algorithm for Hyperspectral Pansharpening With Deep Priors.
